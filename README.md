@@ -1,12 +1,14 @@
-### 
-<a href="https://donggoolosori.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-#EA4AAA?style=flat-square&logo=Github&logoColor=#EA4AAA"/></a>
+<a href="https://donggoolosori.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-0984e3?style=flat-square&logo=Github&logoColor=white"/></a> <a href="mailto:kdj65511@gmail.com"><img src="https://img.shields.io/badge/kdj65511@gmail.com-81ecec?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
+## 🛠 Skills
+### Frontend
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 
+### Backend
+<img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-
-
-
-
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/>
 
 
 
