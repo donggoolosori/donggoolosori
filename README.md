@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 ## 🌱 My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donggoolosori&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
