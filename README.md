@@ -1,5 +1,13 @@
-## 🛹 About me
+## 🍒 About me
 <a href="https://donggoolosori.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-0984e3?style=flat-square&logo=Github&logoColor=white"/></a> <a href="mailto:kdj65511@gmail.com"><img src="https://img.shields.io/badge/kdj65511@gmail.com-81ecec?style=flat-square&logo=Gmail&logoColor=black"/></a>
+
+### 저는 `_______` 하는 엔지니어입니다.
+
+1. 항상 Why를 생각하는
+2. 꾸준함의 힘을 아는
+3. 실패를 귀중한 경험으로 여기는
+4. 어제의 나보다 성장하기 위해 노력하는
+5. 지식을 글로 남기는
 
 ## 🚀 Skills
 ### Frontend
