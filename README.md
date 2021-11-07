@@ -1,3 +1,4 @@
+## 🛹 About me
 <a href="https://donggoolosori.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-0984e3?style=flat-square&logo=Github&logoColor=white"/></a> <a href="mailto:kdj65511@gmail.com"><img src="https://img.shields.io/badge/kdj65511@gmail.com-81ecec?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 ## 🚀 Skills
